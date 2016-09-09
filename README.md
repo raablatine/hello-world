@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Ready to git this party started
